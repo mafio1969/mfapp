@@ -1,0 +1,176 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2019-11-04 18:59+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /var/www/html/ikweb.test/Articles/src/Controller/ArticlesController.php:44
+msgid "Article has been saved."
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Controller/ArticlesController.php:47
+msgid "Unable to add article."
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Controller/ArticlesController.php:64
+msgid "The article has been saved."
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Controller/ArticlesController.php:67
+msgid "The article could not be saved. Please, try again."
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Template/Articles/add.ctp:9
+msgid "Type"
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Template/Articles/add.ctp:19
+msgid "Categories"
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Template/Articles/add.ctp:27
+msgid "Title"
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Template/Articles/add.ctp:35
+#: /var/www/html/ikweb.test/Notes/src/Template/Accepts/add.ctp:15
+#: /var/www/html/ikweb.test/Notes/src/Template/Notes/add.ctp:15
+#: /var/www/html/ikweb.test/Notes/src/Template/Rejects/add.ctp:15
+#: /var/www/html/ikweb.test/Notes/src/Template/Reviews/add.ctp:15
+msgid "Description"
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Template/Articles/add.ctp:39
+#: /var/www/html/ikweb.test/Notes/src/Template/Accepts/add.ctp:19
+#: /var/www/html/ikweb.test/Notes/src/Template/Notes/add.ctp:19
+#: /var/www/html/ikweb.test/Notes/src/Template/Rejects/add.ctp:19
+#: /var/www/html/ikweb.test/Notes/src/Template/Reviews/add.ctp:19
+msgid "Add"
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Template/Articles/add.ctp:40
+msgid "Publish"
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Template/Articles/articles.ctp:6
+msgid "Add article"
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Template/Articles/articles.ctp:19
+msgid "View"
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Template/Articles/articles.ctp:28
+msgid "Edit"
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Template/Articles/view.ctp:9
+msgid "Up vote"
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Template/Articles/view.ctp:23
+msgid "Down vote"
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Template/Articles/view.ctp:79
+msgid "Comment"
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Template/Articles/view.ctp:93
+msgid "Accept"
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Template/Articles/view.ctp:107
+msgid "Reject"
+msgstr ""
+
+#: /var/www/html/ikweb.test/Articles/src/Template/Articles/view.ctp:121
+msgid "Review"
+msgstr ""
+
+#: /var/www/html/ikweb.test/CryptoTheme/src/Template/Element/header.ctp:6
+msgid "Logo"
+msgstr ""
+
+#: /var/www/html/ikweb.test/CryptoTheme/src/Template/Element/header.ctp:16
+msgid "Login"
+msgstr ""
+
+#: /var/www/html/ikweb.test/CryptoTheme/src/Template/Element/header.ctp:26
+msgid "Register"
+msgstr ""
+
+#: /var/www/html/ikweb.test/CryptoTheme/src/Template/Element/header.ctp:37
+msgid "Logout"
+msgstr ""
+
+#: /var/www/html/ikweb.test/CryptoTheme/src/Template/Element/user_header.ctp:6
+msgid "Profile"
+msgstr ""
+
+#: /var/www/html/ikweb.test/CryptoTheme/src/Template/Element/user_header.ctp:16
+msgid "Articles"
+msgstr ""
+
+#: /var/www/html/ikweb.test/CryptoTheme/src/Template/Element/user_header.ctp:26
+msgid "Comments"
+msgstr ""
+
+#: /var/www/html/ikweb.test/CryptoTheme/src/Template/Element/user_header.ctp:36
+msgid "Permissions"
+msgstr ""
+
+#: /var/www/html/ikweb.test/CryptoTheme/src/Template/Element/user_header.ctp:46
+msgid "Users"
+msgstr ""
+
+#: /var/www/html/ikweb.test/Notes/src/Controller/AcceptsController.php:23
+msgid "Accept has been saved."
+msgstr ""
+
+#: /var/www/html/ikweb.test/Notes/src/Controller/AcceptsController.php:31
+msgid "Unable to add accepts."
+msgstr ""
+
+#: /var/www/html/ikweb.test/Notes/src/Controller/NotesController.php:23
+msgid "Comment has been saved."
+msgstr ""
+
+#: /var/www/html/ikweb.test/Notes/src/Controller/NotesController.php:31
+msgid "Unable to add comment."
+msgstr ""
+
+#: /var/www/html/ikweb.test/Notes/src/Controller/RejectsController.php:24
+msgid "Reject has been saved."
+msgstr ""
+
+#: /var/www/html/ikweb.test/Notes/src/Controller/RejectsController.php:32
+msgid "Unable to add reject."
+msgstr ""
+
+#: /var/www/html/ikweb.test/Notes/src/Controller/ReviewsController.php:23
+msgid "Review has been saved."
+msgstr ""
+
+#: /var/www/html/ikweb.test/Notes/src/Controller/ReviewsController.php:31
+msgid "Unable to add review."
+msgstr ""
+
+#: /var/www/html/ikweb.test/Votes/src/Controller/VotesController.php:35;62
+msgid "Vote has been added."
+msgstr ""
+
+#: /var/www/html/ikweb.test/Votes/src/Controller/VotesController.php:37;64
+msgid "Unable to add vote."
+msgstr ""
+

@@ -1,0 +1,3033 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2020-08-26 14:48+0000\n"
+"PO-Revision-Date: 2020-12-20 03:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:84
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/index.ctp:32
+msgid "All"
+msgstr "Wszystkie"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:85;147;338
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/contents.ctp:130
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:133
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/newsletter.ctp:115
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/search.ctp:100
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/history.ctp:77
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/index.ctp:161
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/main.ctp:48
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/subscriptions.ctp:76;219
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:34
+msgid "News"
+msgstr "Aktualności"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:86
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:38
+msgid "Questions"
+msgstr "Pytania"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:141
+msgid "You do not have privileges to add content."
+msgstr "Nie masz uprawnień, aby dodać treść."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:148;339
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/contents.ctp:132
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:136
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/newsletter.ctp:117
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/search.ctp:103
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/history.ctp:79
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/index.ctp:163
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/subscriptions.ctp:79;222
+msgid "Question"
+msgstr "Pytanie"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:212;296;332
+msgid "The content has been saved."
+msgstr "Treść została zapisana."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:216
+msgid "Unable to add content."
+msgstr "Nie można dodać treści."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:231;414;431;475;495;578;620;674
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/NotesController.php:309;337
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:313;341
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Controller/NoticesController.php:88;317;338
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:937;1538
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:726;814;870
+msgid "Invalid content."
+msgstr "Nieprawidłowa treść."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:240;362
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Controller/BannersController.php:147
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Controller/NewsletterController.php:140
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/AcceptsController.php:78;159;209;259
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/NotesController.php:152;241;294;321;363
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:86;173;247;298;325;367;385;407;429
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/ReviewsController.php:54;103;161;208
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Controller/NoticesController.php:331
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:243;248;359;501;569;653;661;789;863;919;1162;1246;1311;1426;1507
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:155;160;351;857;895
+msgid "Invalid action."
+msgstr "Nieprawidłowa czynność."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:335
+msgid "The content could not be saved. Please, try again."
+msgstr "Nie można zapisać treści. Proszę spróbować ponownie."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:354;373
+msgid "The content could not be deleted. Please, try again."
+msgstr "Nie można usunąć treści. Proszę spróbować ponownie."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:371
+msgid "The content has been deleted."
+msgstr "Treść została usunięta."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:422
+msgid "The content has been deleted by author."
+msgstr "Treść została usunięta przez autora."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:580
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1444
+msgid "Content is already send to resolve."
+msgstr "Treść została już wysłana do rozstrzygnięcia."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:605
+msgid "Content was send to resolve."
+msgstr "Treść została wysłana do rozstrzygnięcia."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:625;679
+msgid "Content cannot be send to resolve anymore."
+msgstr "Treść nie może już być wysłana do rozstrzygnięcia."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:657
+msgid "You resolved content as accepted."
+msgstr "Treść została rozstrzygnięta jako zaakceptowana."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:659;713
+msgid "Error while resolving content."
+msgstr "Błąd podczas rozstrzygania treści."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Controller/ArticlesController.php:711
+msgid "You resolved content as rejected."
+msgstr "Treść została rozstrzygnięta jako odrzucona."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/add.ctp:11;100
+msgid "Add content"
+msgstr "Dodaj treść"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/add.ctp:29
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/edit.ctp:31
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/add.ctp:28
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/edit.ctp:29
+msgid "Title"
+msgstr "Tytuł"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/add.ctp:37
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/edit.ctp:39
+msgid "Visible for all users"
+msgstr "Widoczne dla wszystkich użytkowników"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/add.ctp:45
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/edit.ctp:47
+msgid "Visible only for registered users"
+msgstr "Widoczne dla zarejestrowanych użytkowników"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/add.ctp:62
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/edit.ctp:59
+msgid "Type"
+msgstr "Typ"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/add.ctp:73
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/edit.ctp:69
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Template/Categories/index.ctp:14
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/user_header.ctp:47
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/main.ctp:229
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/subscriptions.ctp:46
+msgid "Categories"
+msgstr "Kategorie"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/add.ctp:85
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/edit.ctp:81
+msgid "Add photo"
+msgstr "Dodaj zdjęcie"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/add.ctp:126
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/edit.ctp:123
+msgid "You can only select 3 items"
+msgstr "Możesz wybrać maksymalnie 3 kategorie"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/add.ctp:148;151;152;167
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/edit.ctp:145;148;149;164
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/NotesController.php:425
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1582
+msgid "Field cannot be empty."
+msgstr "Pole nie może być puste."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/comments.ctp:25;76;145
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments.ctp:70;224;375
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:67;275;460;611
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/rejects.ctp:133;221
+msgid "Comment was deleted."
+msgstr "Komentarz został usunięty."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/comments.ctp:39;49;92;102
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/accepts.ctp:79;123
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments.ctp:94;130;247;312
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:138;174;326;362;482;518
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/reviews.ctp:62;85
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Accepts/add.ctp:25
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Accepts/comment.ctp:25
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Notes/add.ctp:25
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Notes/comment.ctp:34
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Rejects/add.ctp:25
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Rejects/comment.ctp:25
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Reviews/add.ctp:25
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Reviews/comment.ctp:25
+msgid "Reply"
+msgstr "Odpowiedz"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/comments.ctp:46;99;160
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:233
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:235
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/accepts.ctp:86;130;169
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments.ctp:124;277;422
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:168;356;512;658
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/modal_report.ctp:31
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/modal_resolve_reason.ctp:32
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/reviews.ctp:92;118
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Accepts/comment.ctp:31
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Accepts/comments.ctp:25
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Notes/add.ctp:32
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Notes/comment.ctp:56
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Notes/comments.ctp:50
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Rejects/comment.ctp:31
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Rejects/comments.ctp:25
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Reviews/comment.ctp:31
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Reviews/comments.ctp:25
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:970;1034
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_raise_objection.ctp:32
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:233
+msgid "Report"
+msgstr "Zgłoś"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/comments.ctp:49;102
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:189
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:192
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments.ctp:130;312
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:123;174;311;362;518
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/vote_button.ctp:32
+msgid "Only for registered users"
+msgstr "Tylko dla zarejestrowanych użytkowników"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/comments.ctp:61;114;172
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments.ctp:144;326;437
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:191;376;532;673
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/modal_remove.ctp:18
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/rejects.ctp:87;173;263
+msgid "Remove"
+msgstr "Usuń"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/comments.ctp:118
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/contents.ctp:38
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:212
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:214
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments.ctp:162;295
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:211;396;551;691
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Template/Categories/index.ctp:96
+msgid "Subscribe"
+msgstr "Subskrybuj"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/contents.ctp:26
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:200
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:202
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Template/Categories/index.ctp:84
+msgid "Unsubscribe"
+msgstr "Subskrybujesz"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/contents.ctp:84
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:48
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/newsletter.ctp:46
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/search.ctp:47
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/index.ctp:44
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/index.ctp:46
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/index.ctp:42
+msgid "Filter"
+msgstr "Filtr"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/contents.ctp:110
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:111
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/newsletter.ctp:69
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/search.ctp:79
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/index.ctp:80
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/index.ctp:69
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/subscriptions.ctp:59;202;301;356;461
+msgid "Newest"
+msgstr "Najnowsze"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/contents.ctp:117
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:118
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/newsletter.ctp:76
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/search.ctp:86
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/index.ctp:87
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/index.ctp:76
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/subscriptions.ctp:65;208;307;362;467
+msgid "Oldest"
+msgstr "Najstarsze"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/contents.ctp:172
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/history.ctp:105
+msgid "by"
+msgstr "przez"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/edit.ctp:13
+msgid "Edit content"
+msgstr "Edytuj treść"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/edit.ctp:97
+msgid "Save content"
+msgstr "Zapisz treść"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:17
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/user_header.ctp:15
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Element/navigation.ctp:30
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/content.ctp:16
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:12
+msgid "My content"
+msgstr "Moje treści"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:45
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/search.ctp:44
+msgid "Search for content"
+msgstr "Szukaj treści"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:61
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/main.ctp:135
+msgid "Add question"
+msgstr "Dodaj pytanie"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:73
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/main.ctp:58
+msgid "Add news"
+msgstr "Dodaj aktualność"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:104
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/add.ctp:73
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/edit.ctp:80
+msgid "Status"
+msgstr "Status"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:211
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/newsletter.ctp:187
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:272
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/search.ctp:161
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:293
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments.ctp:110;263;408
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:154;342;498;644
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/rejects.ctp:160;248
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/index.ctp:151
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Template/Categories/index.ctp:60
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Notes/comment.ctp:48
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Template/Notes/comments.ctp:42
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:161
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/index.ctp:80
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:163
+msgid "Edit"
+msgstr "Edycja"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:225
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/index.ctp:113;159
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Template/Categories/index.ctp:68
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/content.ctp:41
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:57
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/news.ctp:41
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/others.ctp:41
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/reports.ctp:42
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:49
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Element/form.ctp:34
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:162
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Element/form.ctp:22
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/index.ctp:81
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:164
+msgid "Delete"
+msgstr "Usuń"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:238
+msgid "Send to resolve step I"
+msgstr "Zgłoś do rozstrzygnięcia"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:240
+msgid "Send to resolve step IV"
+msgstr "Zgłoś do rozstrzygnięcia"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:278
+msgid ""
+"If you edit this content all “Accept” and “Reject” votes will be reset and "
+"your content will have to go through the acceptations process again. Do you "
+"want to continue?"
+msgstr ""
+"Jeśli wyedytujesz treść wszystkie \"Akceptacje\" i \"Odrzucenia\" wraz z "
+"lajkami zostaną zresetowane. Treść trafi również ponownie do weryfikacji. "
+"Czy na pewno chcesz kontynuować?"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:300
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:653
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:680
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:1057
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1593
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/index.ctp:158
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_content.ctp:119;124
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_resolve.ctp:101
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:316;342;363
+msgid "Reason cannot be empty."
+msgstr "Powód nie może być pusty."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/index.ctp:301
+msgid "Reason must have min. 20 characters."
+msgstr "Powód musi mieć min. 20 znaków."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/newsletter.ctp:17
+msgid "Add / Remove items"
+msgstr "Dodaj / Usuń elementy"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/newsletter.ctp:41
+msgid "type"
+msgstr "typ"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/newsletter.ctp:42
+msgid "q"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/newsletter.ctp:100
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/index.ctp:106
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/content.ctp:47
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:63
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/latest.ctp:45
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/news.ctp:47
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/others.ctp:47
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/reports.ctp:48
+msgid "Select all"
+msgstr "Zaznacz wszystko"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/newsletter.ctp:103
+msgid "Update newsletter"
+msgstr "Zaktualizuj newsletter"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:40
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:39
+msgid "Accept reason"
+msgstr "Powód akceptacji"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:43
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:42
+msgid "Resolve as accepted"
+msgstr "Rozstrzygnięte jako zaakceptowane"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:62
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:61
+msgid "Reject reason"
+msgstr "Powód odrzucenia"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:65
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:64
+msgid "Resolve as rejected"
+msgstr "Rozstrzygnięte jako odrzucone"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:128
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:132
+msgid "Content corrected by an authorized editor"
+msgstr "Treści poprawione przez autoryzowanego redaktora"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:153;157
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:157;161
+msgid "Login to see more content"
+msgstr "Zaloguj się aby zobaczyć więcej treści"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:249
+msgid "Accept question"
+msgstr "Zaakceptuj pytanie"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:250
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:270
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_resolve.ctp:49
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:997
+msgid "Accept"
+msgstr "Zaakceptuj"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:257
+msgid "Reject question"
+msgstr "Odrzuć pytanie"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:258
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:278
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_report_reject.ctp:40
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_content.ctp:47
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_resolve.ctp:55
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:46
+msgid "Reject"
+msgstr "Odrzuć"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:263
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:283
+msgid "Review article"
+msgstr "Zrecenzuj artykuł"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:265
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:285
+msgid "Review"
+msgstr "Recenzja"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:292
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:385
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:42
+msgid "Answers"
+msgstr "Odpowiedzi"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:301
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:401
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:945
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:50
+msgid "Accepts"
+msgstr "Akceptacje"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:307
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:407
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:949
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:54
+msgid "Rejects"
+msgstr "Odrzucenia"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:351
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:345
+msgid "Other questions"
+msgstr "Pozostałe pytania"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:398
+msgid "Add question answer"
+msgstr "Dodaj odpowiedź do pytania"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:418
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:21
+msgid "Add answer"
+msgstr "Dodaj odpowiedź"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:423;452;553;602
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:488;537;668
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments.ctp:493
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:756;775
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/reviews.ctp:32
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/index.ctp:113
+msgid "Add"
+msgstr "Dodaj"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:443
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:730
+msgid "Add comment to answer"
+msgstr "Dodaj komentarz do odpowiedzi"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:449
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:669
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments.ctp:19;468;488
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:750;775
+msgid "Add comment"
+msgstr "Dodaj komentarz"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:468;476
+msgid "Edit answer"
+msgstr "Edytuj odpowiedź"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:480;508
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:570
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/change.ctp:41
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/edit.ctp:48
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/general.ctp:92
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/inbox.ctp:87
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/roles.ctp:20
+msgid "Save"
+msgstr "Zapisz"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:496;504
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:558;566
+msgid "Edit comment"
+msgstr "Edytuj komentarz"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:524;547
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:459;482
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/accepts.ctp:31
+msgid "Add accept"
+msgstr "Dodaj akceptację"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:574;597
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:509;532
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/rejects.ctp:30
+msgid "Add reject"
+msgstr "Dodaj odrzucenie"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:622
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:585
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:102
+msgid "Reject cannot be empty."
+msgstr "Odrzucenie nie może być puste."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:645
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:670
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments.ctp:530
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/AcceptsController.php:179
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/NotesController.php:68;169;258
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:190;273
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/ReviewsController.php:123
+msgid "Comment cannot be empty."
+msgstr "Komentarz nie może być pusty."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/question.ctp:697;723
+msgid "Answer cannot be empty."
+msgstr "Odpowiedź nie może być pusta."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/search.ctp:17
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/subscriptions.ctp:34
+msgid "Contents"
+msgstr "Treści"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/search.ctp:72
+msgid "Most popular"
+msgstr "Najpopularniejsze"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:269
+msgid "Accept article"
+msgstr "Zaakceptuj artykuł"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:277
+msgid "Reject article"
+msgstr "Odrzuć artykuł"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:335
+msgid "Other articles"
+msgstr "Pozostałe artykuły"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:383
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/subscriptions.ctp:38
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:46
+msgid "Comments"
+msgstr "Komentarze"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Articles/view.ctp:416
+msgid "Reviews"
+msgstr "Recenzje"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/accepts.ctp:22
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/AcceptsController.php:83
+msgid "Accept already added."
+msgstr "Akceptacja została już dodana."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/accepts.ctp:65;111
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments.ctp:53
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:48
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/content.ctp:68
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:89;450
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/latest.ctp:68
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/news.ctp:67
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/reports.ctp:68;166
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/verified.ctp:35
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:32
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_content.ctp:32
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_resolve.ctp:33
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:34
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:197
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_multi.ctp:14
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_single.ctp:13
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_multi.ctp:14
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_single.ctp:12
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/subscriptions.ctp:152;393;426
+msgid "Deleted user"
+msgstr "Użytkownik usunięty"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/accepts.ctp:68
+msgid "Accepted."
+msgstr "Zaakceptowane."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments.ctp:61;215;366
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:56;266;451;601
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/rejects.ctp:124;212
+msgid "Edited"
+msgstr "Edytowany"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments.ctp:75;229;380
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:76;465;616
+msgid "Comment removed by moderator"
+msgstr "Komentarz usunięty przez moderatora."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments.ctp:150;283
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:199;384;539;679
+msgid "Subscribed"
+msgstr "Subskrybujesz"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/comments_question.ctp:84
+msgid "Read more"
+msgstr "Zobacz więcej"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/modal_remove.ctp:9
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_report_remove.ctp:42
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_content.ctp:41
+msgid "Remove content"
+msgstr "Usuń treść"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/modal_remove.ctp:15
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/modal_report.ctp:26
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:965
+msgid "Add reason"
+msgstr "Podaj powód"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/modal_report.ctp:9
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:948
+msgid "Report content"
+msgstr "Zgłoś treść"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/modal_resolve_reason.ctp:16
+#, fuzzy
+#| msgid "Reject reason"
+msgid "Resolve reason"
+msgstr "Powód odrzucenia"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/rejects.ctp:22
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:91
+msgid "Reject already added."
+msgstr "Odrzucenie zostało już dodane."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/rejects.ctp:72
+msgid "Reject was deleted."
+msgstr "Odrzucenie zostało usunięte."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/rejects.ctp:138;226
+msgid "Comment was deleted due to inappropriate content."
+msgstr "Komentarz został usunięty z powodu nieodpowiedniej treści."
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/Template/Element/reviews.ctp:27
+msgid "Add review"
+msgstr "Dodaj recenzję"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/View/Helper/ArticlesHelper.php:103
+msgid "Verification"
+msgstr "Weryfikacja"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/View/Helper/ArticlesHelper.php:105
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:160
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:107
+msgid "Accepted"
+msgstr "Zaakceptowane"
+
+#: /home/adrian/cryptoresearch/plugins/Articles/src/View/Helper/ArticlesHelper.php:107
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:161
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:109
+msgid "Rejected"
+msgstr "Odrzucone"
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Controller/BannersController.php:102;126
+msgid "The banner has been saved."
+msgstr "Baner został zapisany."
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Controller/BannersController.php:105;129
+msgid "The banner could not be saved. Please, try again."
+msgstr "Baner nie mógł być zapisany. Proszę spróbuj ponownie."
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Controller/BannersController.php:157
+msgid "The banner has been deleted."
+msgstr "Baner został usunięty."
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Controller/BannersController.php:159
+msgid "The banner could not be deleted. Please, try again."
+msgstr "Nie można usunąć baneru. Proszę spróbować ponownie."
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Controller/BannersController.php:172
+msgid "Banners has been deleted."
+msgstr "Banery zostały usunięte."
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/add.ctp:13;77
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/index.ctp:53
+msgid "Add banner"
+msgstr "Dodaj baner"
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/add.ctp:38
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/edit.ctp:39
+msgid "Photo"
+msgstr "Zdjęcie"
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/add.ctp:48
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/edit.ctp:55
+msgid "Banner image"
+msgstr "Obraz baneru"
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/add.ctp:56
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/edit.ctp:63
+msgid "Link"
+msgstr "Link"
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/add.ctp:69
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/edit.ctp:76
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/index.ctp:35
+msgid "Inactive"
+msgstr "Nieaktywny"
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/add.ctp:70
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/edit.ctp:77
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/index.ctp:34
+msgid "Active"
+msgstr "Aktywny"
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/edit.ctp:14
+msgid "Edit banner"
+msgstr "Edytuj baner"
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/edit.ctp:84
+msgid "Save banner"
+msgstr "Zapisz baner"
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/index.ctp:13
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/user_header.ctp:69
+msgid "Banners"
+msgstr "Banery"
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/index.ctp:41
+msgid "Search for banner"
+msgstr "Szukaj baneru"
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/index.ctp:142
+msgid "Created by"
+msgstr "Utworzone przez"
+
+#: /home/adrian/cryptoresearch/plugins/Banners/src/Template/Banners/index.ctp:143
+msgid "Updated by"
+msgstr "Zaktualizowane przez"
+
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Controller/CategoriesController.php:45;59
+msgid "The category has been saved."
+msgstr "Kategoria została zapisana."
+
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Controller/CategoriesController.php:48
+msgid "Category name already exists."
+msgstr "Nazwa kategorii już istnieje."
+
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Controller/CategoriesController.php:62
+msgid "The category could not be saved. Please, try again."
+msgstr "Nie można zapisać kategorii. Proszę spróbować ponownie."
+
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Controller/CategoriesController.php:72
+msgid "The category has been deleted."
+msgstr "Kategoria została usunięta."
+
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Controller/CategoriesController.php:74
+msgid "The category could not be deleted. Please, try again."
+msgstr "Nie można usunąć kategorii. Proszę spróbować ponownie."
+
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Model/Table/CategoriesTable.php:86
+msgid "Category"
+msgstr "Kategoria"
+
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Template/Categories/add.ctp:13;35
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Template/Categories/index.ctp:22
+msgid "Add category"
+msgstr "Dodaj kategorię"
+
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Template/Categories/add.ctp:27
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Template/Categories/edit.ctp:27
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/general.ctp:68
+msgid "Name"
+msgstr "Nazwa"
+
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Template/Categories/edit.ctp:13
+msgid "Edit category"
+msgstr "Edytuj kategorię"
+
+#: /home/adrian/cryptoresearch/plugins/Categories/src/Template/Categories/edit.ctp:35
+msgid "Save category"
+msgstr "Zapisz kategorię"
+
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/footer.ctp:10
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/send_newslleter_to_email.ctp:106
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/forgot_password.ctp:99
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/newsletter.ctp:114
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/register.ctp:100
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/terms_en.ctp:4
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/terms_pl.ctp:4
+msgid "Terms and privacy policy"
+msgstr "Regulamin i polityka prywatności"
+
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/footer.ctp:15
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/aml_en.ctp:4
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/aml_pl.ctp:4
+msgid "AML Policy"
+msgstr "Polityka AML"
+
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/footer.ctp:52
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_content.ctp:54;61
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_resolve.ctp:61
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:52
+msgid "Contact"
+msgstr "Kontakt"
+
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/header.ctp:42
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/login.ctp:5;29
+msgid "Login"
+msgstr "Login"
+
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/header.ctp:48;57
+#: /home/adrian/cryptoresearch/plugins/Subscriptions/src/Template/Subscriptions/add.ctp:12;51
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/add.ctp:12;48
+msgid "Register"
+msgstr "Zarejestruj"
+
+msgid "Registration"
+msgstr "Rejestracja"
+
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/header.ctp:84
+msgid "Search"
+msgstr "Szukaj"
+
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/header.ctp:110
+msgid "Logout"
+msgstr "Wyloguj"
+
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/language_switcher.ctp:16
+msgid "PL"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/language_switcher.ctp:24
+msgid "EN"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/user_header.ctp:22
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Mailer/UserMailer.php:69;83
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Element/setting_navigation.ctp:32
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/inbox.ctp:54
+msgid "Inbox"
+msgstr "Skrzynka odbiorcza"
+
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/user_header.ctp:33
+msgid "New contents"
+msgstr "Nowe treści"
+
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/user_header.ctp:58
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/index.ctp:13
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/subscriptions.ctp:42
+msgid "Users"
+msgstr "Użytkownicy"
+
+msgid "Emails"
+msgstr "E-maile"
+
+msgid "System e-mail templates view"
+msgstr "Podgląd szablonów wiadomości e-mail"
+
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/user_header.ctp:81
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/send_newslleter_to_email.ctp:28
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:961
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Mailer/UserMailer.php:55
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/newsletter.ctp:28
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/newsletter.ctp:9
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgid "Mailing"
+msgstr "Mailing"
+
+msgid "Mailing to users group"
+msgstr "Mailing do grupy użytkowników"
+
+msgid "Send to subscribed"
+msgstr "Wyślij do subskrybentów niezarejestowanych"
+
+msgid "Send to registered"
+msgstr "Wyślij do zarejestrowanych"
+
+#: /home/adrian/cryptoresearch/plugins/CryptoTheme/src/Template/Element/user_header.ctp:93
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Element/navigation.ctp:44
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:16
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/reports.ctp:17
+msgid "Reports"
+msgstr "Zgłoszenia"
+
+#: /home/adrian/cryptoresearch/plugins/FIleHandler/src/Controller/FileHandlerController.php:42
+msgid "Error while uploading file"
+msgstr "Błąd przy przesyłaniu pliku"
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Controller/NewsletterController.php:80;164
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/AcceptsController.php:73;222
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/NotesController.php:63
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:81;260
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/ReviewsController.php:49;173
+msgid "Invalid element."
+msgstr "Nieprawidłowy element."
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Controller/NewsletterController.php:99
+msgid "Newsletter was updated."
+msgstr "Ustawienia newslettera zostały zaktualizowane."
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Controller/NewsletterController.php:104
+msgid "No items to update."
+msgstr "Brak elementów do aktualizacji."
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Controller/NewsletterController.php:121
+msgid "Description was added to newsletter."
+msgstr "Opis został dodany do newslettera."
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Controller/NewsletterController.php:126
+msgid "Unable to add description."
+msgstr "Nie można dodać opisu."
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Controller/NewsletterController.php:149
+msgid "Content was removed from newsletter."
+msgstr "Treść została usunięta z newslettera."
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Controller/NewsletterController.php:151
+msgid "Error while removing content from newsletter."
+msgstr "Błąd podczas usuwania treści z newslettera."
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Controller/NewsletterController.php:171
+msgid "Newsletter was accepted."
+msgstr "Newsletter został zaakceptowany."
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Controller/NewsletterController.php:176
+msgid "Unable to accept newsletter."
+msgstr "Nie można zaakceptować newslettera."
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Controller/NewsletterController.php:193
+#, fuzzy
+#| msgid "Invalid User."
+msgid "Invalid newsletter."
+msgstr "Nieprawidłowy użytkownik."
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Controller/NewsletterController.php:203
+#, fuzzy
+#| msgid "Newsletter was updated."
+msgid "Newsletter was send."
+msgstr "Ustawienia newslettera zostały zaktualizowane."
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Controller/NewsletterController.php:208
+msgid "Wrong mail. Please complete the email existing in our database."
+msgstr ""
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/history.ctp:17
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/index.ctp:17;46
+msgid "New newsletter"
+msgstr "Nowy newsletter"
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/history.ctp:29
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/index.ctp:29
+msgid "History"
+msgstr "Historia"
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/history.ctp:46
+msgid "Sending history"
+msgstr "Historia wysłanych"
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/history.ctp:50
+msgid "Send last newsletter to the email existing in our database."
+msgstr ""
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/history.ctp:56
+msgid "Send to mail"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/index.ctp:55
+msgid "Sending"
+msgstr "Wysyłka"
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/index.ctp:77
+msgid "Accept newsletter"
+msgstr "Zaakceptuj newsletter"
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/index.ctp:86
+msgid "Newsletter is accepted"
+msgstr "Newsletter jest akceptowany"
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/index.ctp:109;125
+msgid "Email beginning"
+msgstr "Początek emaila"
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/index.ctp:139
+msgid "Add / Remove content"
+msgstr "Dodaj / Usuń treść"
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/index.ctp:152
+msgid "List of content to send"
+msgstr "Lista treści do wysłania"
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/index.ctp:215
+msgid "Remove from list"
+msgstr "Usuń z listy"
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/index.ctp:236
+msgid "No active newsletter at the moment."
+msgstr "Brak aktywnego newslettera w tej chwili."
+
+#: /home/adrian/cryptoresearch/plugins/Newsletter/src/Template/Newsletter/send_newslleter_to_email.ctp:95
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/newsletter.ctp:103
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/register.ctp:89
+msgid "Automatically generated mail, please do not reply to it."
+msgstr ""
+"Wiadomość automatycznie wygenerowana poprzez skrypt. Prosimy na nią nie "
+"odpowiadać."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/AcceptsController.php:89
+msgid "Cannot add accept after verification time."
+msgstr ""
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/AcceptsController.php:143
+msgid "Accept has been saved."
+msgstr "Akceptacja została zachowana."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/AcceptsController.php:151
+msgid "Unable to add accept."
+msgstr "Nie można dodać akceptacji."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/AcceptsController.php:174;201;234;251
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/NotesController.php:73;144;164;233;253;286
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:165;185;239;290
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/ReviewsController.php:118;154;185;201
+msgid "Unable to add comment."
+msgstr "Nie można dodać komentarza."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/AcceptsController.php:177
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/NotesController.php:167;256
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:188
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/ReviewsController.php:121
+msgid "Invalid comment."
+msgstr "Nieprawidłowy komentarz."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/AcceptsController.php:193;243
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/NotesController.php:72;199;277
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:231;282
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/ReviewsController.php:147;194
+msgid "Comment has been saved."
+msgstr "Komentarz został zapisany."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/NotesController.php:77
+msgid "Answer has been saved."
+msgstr "Odpowiedź została zapisana."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/NotesController.php:78
+msgid "Unable to add answer."
+msgstr "Nie można dodać odpowiedzi."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/NotesController.php:348
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:359
+msgid "Unable to save comment."
+msgstr "Nie można dodać komentarza."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/NotesController.php:353
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:353
+msgid "Comment has been edited."
+msgstr "Komentarz został edytowany."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/NotesController.php:401;454;480
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:401;423
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1044;1104
+msgid "Comment has been removed."
+msgstr "Komentarz został usunięty."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/NotesController.php:407;460;486
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1007;1154
+msgid "Error while removing content."
+msgstr "Błąd podczas usuwania treści."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:97
+msgid "Cannot add reject after verification time."
+msgstr ""
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:112
+msgid "Unable to add reject."
+msgstr "Nie można dodać odrzucenia."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:157
+msgid "Reject has been saved."
+msgstr "Odrzucenie zostało zapisane."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/RejectsController.php:379
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1022
+msgid "Reject has been removed."
+msgstr "Odrzucenie zostało usunięte."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/ReviewsController.php:64;96
+msgid "Unable to add review."
+msgstr "Nie można dodać recenzji."
+
+#: /home/adrian/cryptoresearch/plugins/Notes/src/Controller/ReviewsController.php:89
+msgid "Review has been saved."
+msgstr "Recenzja została zapisana."
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Controller/NoticesController.php:342
+msgid "No messages selected."
+msgstr "Nie wybrano żadnej wiadomości."
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Controller/NoticesController.php:347
+msgid "Messages were mark as read."
+msgstr "Wiadomości zostały oznaczona jako przeczytane."
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Controller/NoticesController.php:350
+msgid "Messages were deleted."
+msgstr "Wiadomości zostały usunięte."
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Controller/NoticesController.php:386
+msgid "Message were mark as read."
+msgstr "Wiadomość została oznaczona jako przeczytana."
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Controller/NoticesController.php:393
+msgid "Message were mark as unread."
+msgstr "Wiadomość została oznaczona jako nieprzeczytana."
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Controller/NoticesController.php:418
+msgid "Message was deleted."
+msgstr "Wiadomość została usunięta."
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Event/NoticesManager.php:126
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/content.ctp:130
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:66
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_multi.ctp:17
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_single.ctp:16
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_multi.ctp:17
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_single.ctp:15
+msgid "accepted"
+msgstr "zaakceptowane"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Event/NoticesManager.php:127
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/content.ctp:150
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:87
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_multi.ctp:31
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_single.ctp:30
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_multi.ctp:22
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_single.ctp:20
+msgid "rejected"
+msgstr "odrzucone"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Event/NoticesManager.php:128
+msgid "added review"
+msgstr "dodał/a recenzję"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Event/NoticesManager.php:129
+msgid "resolve as accepted"
+msgstr "rozstrzygnięte jako zaakceptowane"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Event/NoticesManager.php:130
+msgid "resolve as rejected"
+msgstr "rozstrzygnięte jako odrzucone"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Event/NoticesManager.php:131
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/latest.ctp:146
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/news.ctp:128
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/verified.ctp:81
+msgid "added"
+msgstr "dodał/a"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Event/NoticesManager.php:132
+msgid "added comment to Your review"
+msgstr "dodał/a komentarz do Twojej recenzji"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Event/NoticesManager.php:133
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:341
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/news.ctp:149
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:182
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_multi.ctp:64
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_single.ctp:63
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_multi.ctp:47
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_single.ctp:45
+msgid "added comment to Your reject"
+msgstr "dodał/a komentarz do Twojego odrzucenia"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Event/NoticesManager.php:134;135;136;137
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:355;431
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/reports.ctp:129;145;217
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:204;244;273;321
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/cases.ctp:74
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/taken.ctp:75
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_content.ctp:73
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:63
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/waiting.ctp:73
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_multi.ctp:78;83;93;107
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_single.ctp:77;82;92;106
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_multi.ctp:52;57;67;81
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_single.ctp:50;55;65;79
+msgid "reported"
+msgstr "zgłosił/a"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Event/NoticesManager.php:138;139
+msgid "reported to resolve"
+msgstr "zgłosił/a do rozstrzygnięcia"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Event/NoticesManager.php:140
+msgid "Your account were banned for %s by take away %s for time %s"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Event/NoticesManager.php:141
+msgid "Your comment was removed due to:"
+msgstr "Twój komentarz został usunięty z powodu:"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Element/navigation.ctp:17
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:10
+msgid "All notices"
+msgstr "Wszystkie powiadomienia"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Element/navigation.ctp:58
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:18
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Element/setting_navigation.ctp:62
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/subscriptions.ctp:22
+msgid "Subscriptions"
+msgstr "Subskrypcje"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Element/navigation.ctp:71
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:20
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/others.ctp:16
+msgid "Others"
+msgstr "Inne"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Element/new_content_navigation.ctp:16
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/latest.ctp:7
+msgid "Content requiring accept"
+msgstr "Treść wymaga akceptacji"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Element/new_content_navigation.ctp:28
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/verified.ctp:8
+msgid "Content verified"
+msgstr "Weryfikacja treści"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/content.ctp:36;88
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:52;109
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/latest.ctp:35;88
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/news.ctp:36;86
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/others.ctp:36;66
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/reports.ctp:37;87
+msgid "Mark as read"
+msgstr "Oznacz jako przeczytane"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/content.ctp:104
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:125
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/latest.ctp:104
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/news.ctp:102
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/others.ctp:82
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/reports.ctp:103
+msgid "Mark as unread"
+msgstr "Oznacz jako nieprzeczytane"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/content.ctp:172
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:110
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_multi.ctp:47
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_single.ctp:46
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_multi.ctp:30
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_single.ctp:28
+msgid "resolve as accepted Your"
+msgstr "rozstrzygnięte jako zaakceptowane"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/content.ctp:173;194
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:398;526;582;614;627
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/reports.ctp:234;253
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:111;133;392;412
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_multi.ctp:47;52;112;117
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_single.ctp:46;51;111;116
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_multi.ctp:30;35;86;91
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_single.ctp:28;33;84;89
+msgid "Content"
+msgstr "Treść"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/content.ctp:193
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:132
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_multi.ctp:52
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_single.ctp:51
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_multi.ctp:35
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_single.ctp:33
+msgid "resolve as rejected Your"
+msgstr "rozstrzygnięte jako odrzucone Twoją"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:14
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/news.ctp:16;129
+msgid "New content"
+msgstr "Nowa treść"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:150;178;208;236;396;580;838
+msgid "Your content"
+msgstr "Twoja treść"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:160;218
+msgid "has been accepted by"
+msgstr "została zaakceptowana przez"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:163;191;221;250
+msgid "user"
+msgstr "użytkownik"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:165;193;223;253
+msgid "users"
+msgstr "użytkownicy"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:188;246
+msgid "has been rejected by"
+msgstr "została odrzucona przez"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:251;254;419;473;546;601;849
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/reports.ctp:190
+msgid "Show justifications"
+msgstr "Pokaż uzasadnienia"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:267
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_report_history.ctp:89
+msgid "Raise an objection"
+msgstr "Zgłoś ponownie"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:287
+msgid "in category"
+msgstr "w kategorii"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:289
+msgid "in categories"
+msgstr "w kategoriach"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:301
+msgid "has updated question"
+msgstr "zaktualizował/a pytanie"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:303
+msgid "has updated news"
+msgstr "zaktualizował/a aktualność"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:307
+msgid "has added new question"
+msgstr "dodał/a nowe pytanie"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:309
+msgid "has added news"
+msgstr "dodał/a nową aktualność"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:370;498;556;644
+msgid "no justification"
+msgstr "Brak uzasadnienia"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:378;481;506;564;652;858
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/reports.ctp:198
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_report_history.ctp:25
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_report_reject.ctp:16
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_report_remove.ctp:18
+msgid "Reason"
+msgstr "Powód"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:418;472;545;600
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/reports.ctp:189
+msgid "has been reported."
+msgstr "została zgłoszona."
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:455
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/reports.ctp:171
+msgid "Your profile"
+msgstr "Twój profil"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:459;464
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/reports.ctp:175;180
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:30
+msgid "Profile"
+msgstr "Profil"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:524
+msgid "Your comment"
+msgstr "Twój komentarz"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:613;626
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/reports.ctp:233;252
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:391;411
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_multi.ctp:112;117
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_single.ctp:111;116
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_multi.ctp:86;91
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_single.ctp:84;89
+msgid "send to resolve"
+msgstr "zgłoś do rozstrzygnięcia"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:638;820
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:917;929
+msgid "forever"
+msgstr "na zawsze"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:664
+msgid "Moderator"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:665
+msgid "added you permissions"
+msgstr "nadał Ci sprawności"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:678
+msgid "Your account has been punished by deleting"
+msgstr "Twoje konto zostało ukarane odebraniem"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:683
+msgid "for"
+msgstr "z"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:686
+msgid "for the duration of "
+msgstr "na czas"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:689
+msgid "Show full justifications"
+msgstr "Pokaż pełne uzasadnienie"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:710
+msgid "has answered your question"
+msgstr "odpowiedział/a na twoje pytanie"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:714
+msgid "has answered the question"
+msgstr "odpowiedział/a na pytanie"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:718
+msgid "has commented your news"
+msgstr "skomentował/a twoją aktualność"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:722
+msgid "has commented news"
+msgstr "skomentował/a  aktualność"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:730
+msgid "Go to the answer."
+msgstr "Idź do odpowiedzi."
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:744;789
+msgid "Go to the comment."
+msgstr "Idź do komentarza."
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:773
+msgid "comment to news"
+msgstr "komentarz do aktualności"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:773
+msgid "reply to question"
+msgstr "odpowiedź na pytanie"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:779
+msgid "has commented your"
+msgstr "skomentował/a twój"
+
+msgid "has replied to"
+msgstr "odpowiedział/a na"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:783
+msgid "has commented"
+msgstr "skomentował/a"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:812
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:913;925
+msgid "1 day"
+msgstr "1 dzień"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:814
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:914;926
+msgid "7 days"
+msgstr "7 dni"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:816
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:915;927
+msgid "14 days"
+msgstr "14 dni"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:818
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:916;928
+msgid "30 days"
+msgstr "30 dni"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:826
+msgid "Your account has been banned for "
+msgstr "Twoje konto zostało zablokowane na"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:826
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/index.ctp:108
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:435
+msgid "due to"
+msgstr "z powodu"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:840
+msgid "to the"
+msgstr "z"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:847
+msgid "has been removed."
+msgstr "została usunięta."
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:876
+msgid "Admin sended you message."
+msgstr "Admin wysłał Ci wiadomość."
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:879
+msgid "Show admin message"
+msgstr "Pokaż wiadomość administratora"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:888
+msgid "Admin message"
+msgstr "Wiadomość administratora"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:907
+msgid "Objection concerning"
+msgstr "Zgłoszenie dotyczące"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:912
+msgid "your profile"
+msgstr "twój profil"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:915
+msgid "has been resolved by"
+msgstr "zostało rozpatrzone przez"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:918
+msgid "Show justification"
+msgstr "Pokaż uzasadnienie"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:988
+msgid "Admin decision"
+msgstr "Decyzja administratora"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:996
+msgid "Deleted content"
+msgstr "Usunięta treść"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:1006
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_content.ctp:47
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_resolve.ctp:55
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:46
+#, fuzzy
+#| msgid "Reject reason"
+msgid "Reject report"
+msgstr "Powód odrzucenia"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:1008
+msgid "Punished by deleting permission"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:1011
+#, fuzzy
+#| msgid "Permissions"
+msgid "Decision"
+msgstr "Decyzja"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:1014
+#, fuzzy
+#| msgid "Blocked to"
+msgid "Blocked time"
+msgstr "Zablokowane do"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:1017
+#, fuzzy
+#| msgid "Justifications"
+msgid "Justification"
+msgstr "Uzasadnienie"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/index.ctp:1058
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/index.ctp:159
+#, fuzzy
+#| msgid "Reason must have min. 20 characters."
+msgid "Reason must have min. 3 characters."
+msgstr "Powód musi mieć min. 3 znaki."
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/latest.ctp:73
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/verified.ctp:40
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/cases.ctp:36;39
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/index.ctp:120
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/taken.ctp:36;39
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/waiting.ctp:36
+#: /home/adrian/cryptoresearch/vendor/cakephp/cakephp/src/View/Helper/PaginatorHelper.php:1220
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:160
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/index.ctp:79
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:162
+msgid "View"
+msgstr "Zobacz"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/latest.ctp:139
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/verified.ctp:74
+msgid "news"
+msgstr "aktualność"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/latest.ctp:141
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/verified.ctp:76
+msgid "question"
+msgstr "pytanie"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/latest.ctp:144
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/verified.ctp:79
+msgid "updated"
+msgstr "zaktualizowane"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/others.ctp:107
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:430
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_multi.ctp:124
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_single.ctp:123
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_multi.ctp:98
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_single.ctp:96
+msgid "User has added You permissions"
+msgstr "Użytkownik nadal Ci sprawności"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/others.ctp:111
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:434
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_multi.ctp:128
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_single.ctp:127
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_multi.ctp:102
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_single.ctp:100
+msgid "User has removed Your permissions"
+msgstr "Użytkownik odebrał Ci sprawności"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:20
+msgid "Notice"
+msgstr "Powiadomienie"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:156
+msgid "updated content"
+msgstr "zaktualizował/a treść"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:158
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_multi.ctp:57
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/notice_single.ctp:56
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_multi.ctp:40
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/notice_single.ctp:38
+msgid "added new content"
+msgstr "dodał/a nowa treść"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:225
+msgid "Reject removed"
+msgstr "Odrzucenie usunięte"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:229
+msgid "Remove reject"
+msgstr "Usuń odrzucenie"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:339
+msgid "Comment removed"
+msgstr "Komentarz usunięty"
+
+#: /home/adrian/cryptoresearch/plugins/Notices/src/Template/Notices/view.ctp:344;356;368
+msgid "Remove comment"
+msgstr "Usuń komentarz"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:159
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:113
+msgid "Waiting"
+msgstr "Oczekiwanie"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:162
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:111
+msgid "Waiting for verification"
+msgstr "Oczekuje na weryfikacje"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:277;375;402;1602
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:22
+msgid "Misspellings and errors (Editing and proofreading need)"
+msgstr "Literówki i błędy (potrzeba edycji i korekty)"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:345;487;555;639;1234
+msgid "Report has been saved."
+msgstr "Zgłoszenie zostało zapisane."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:351;493;561;645;1239
+msgid "Unable to add report."
+msgstr "Nie można dodać zgłoszenia."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:395
+msgid "Invalid type."
+msgstr "Nieprawidłowy typ."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:693
+msgid "Objection has been added."
+msgstr "Zgłoszenie zostało dodane."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:699
+msgid "Error while adding objection."
+msgstr "Błąd podczas dodawania zgłoszenia."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:734
+msgid "Report has been rejected."
+msgstr "Zgłoszenie zostało odrzucone."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:782
+msgid "Error while rejecting report."
+msgstr "Błąd podczas odrzucania zgłoszenia."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:851
+msgid "Message has been send."
+msgstr "Wiadomość została wysłana."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:856
+msgid "Error while sending message."
+msgstr "Błąd podczas wysyłania wiadomości."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:907
+msgid "Report has been accepted."
+msgstr "Zgłoszenie zostało zaakceptowane."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:912
+msgid "Error while accepting report."
+msgstr "Błąd podczas akceptowania zgłoszenia."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:962
+#, fuzzy
+#| msgid "Comment has been removed."
+msgid "Content has been removed."
+msgstr "Komentarz został usunięty."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1027
+msgid "Error while removing reject."
+msgstr "Błąd podczas usuwania odrzucenia."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1087;1147
+msgid "Error while removing comment."
+msgstr "Błąd podczas usuwania komentarza."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1268
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:819
+msgid "You must fill reason of block."
+msgstr "Musisz uzupełnić powód zablokowania."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1299
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:845
+msgid "User was blocked successfully."
+msgstr "Konto użytkownika zostało zablokowane pomyślnie."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1304
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:850
+msgid "Unable to block user."
+msgstr "Nie można zablokować użytkownika."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1336
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:734
+msgid "No permissions where changed."
+msgstr "Sprawności nie zostały zmienione."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1414;1489
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:769
+msgid "Permission were added successfully"
+msgstr "Sprawności zostały pomyślnie zaktualizowane"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1419;1494;1500
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:774
+msgid "Error while adding permissions"
+msgstr "Błąd podczas dodawania sprawności"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1553;1571
+msgid "Invalid reason type."
+msgstr "Nieprawidłowy typ przyczyny."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1603
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:23
+msgid "Plagiarism and deception (Article link need)"
+msgstr "Plagiat i oszustwo (potrzeba linku do artykułu)"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1604;1610;1611
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:24;36
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:906
+msgid "Other"
+msgstr "Inny"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1605
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:31
+msgid "Inappropriate username"
+msgstr "Nieprawidłowa nazwa użytkownika."
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1606
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:32
+msgid "Inappropriate user photo"
+msgstr "Niewłaściwe zdjęcie użytkownika"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1607
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:33
+msgid "Inappropriate user description"
+msgstr "Niewłaściwy opis użytkownika"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1608
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:34
+msgid "User publishes inappropriate content"
+msgstr "Użytkownik publikuje nieodpowiednie treści"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Controller/ReportsController.php:1609
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:35
+msgid "A fake account or user is impersonating"
+msgstr "Fałszywe konto lub podszywa się pod kogoś innego"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_raise_objection.ctp:16
+msgid "Raise objection"
+msgstr "Odrzuć sprzeciw"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_report_contact.ctp:16
+msgid "Message"
+msgstr "Wiadomość"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_report_contact.ctp:40
+msgid "Send"
+msgstr "Wyślij"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_report_history.ctp:19
+msgid "Objection to the"
+msgstr "Zgłoszenie"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_report_history.ctp:30;73
+msgid "Justifications"
+msgstr "Uzasadnienie"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_report_history.ctp:41
+msgid "Action date"
+msgstr "Data akcji"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_report_history.ctp:43
+msgid "Action taken by"
+msgstr "Działanie podjęte przez"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_report_history.ctp:45
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/index.ctp:51
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:151
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/index.ctp:41
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:151
+msgid "Actions"
+msgstr "Akcje"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_report_history.ctp:51
+msgid "Blocked permissions"
+msgstr "Odebrane sprawności"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/modal_report_history.ctp:67
+msgid "Block period"
+msgstr "Okres blokady"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/navigation.ctp:17
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/waiting.ctp:10
+msgid "To take"
+msgstr "Do podjęcia"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/navigation.ctp:29
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/taken.ctp:10
+msgid "Taken"
+msgstr "Podjęte"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Element/navigation.ctp:41
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/cases.ctp:10
+msgid "My cases"
+msgstr "Moje sprawy"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/cases.ctp:65
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/taken.ctp:66
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_resolve.ctp:71
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/waiting.ctp:64
+msgid "has re-objected to the content rejection"
+msgstr "ponownie sprzeciwił/a się odrzuceniu treści"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/cases.ctp:68
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/taken.ctp:69
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_resolve.ctp:74
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/waiting.ctp:67
+msgid "has raised an objection regarding the result of the vote to"
+msgstr "zgłosił/a sprzeciw co do wyniku głosowania na"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/cases.ctp:72
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/taken.ctp:73
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_content.ctp:71
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:61
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/waiting.ctp:71
+msgid "again reported"
+msgstr "zgłosił/a ponownie"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/index.ctp:20
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Element/setting_navigation.ctp:77
+msgid "Your reports"
+msgstr "Twoje zgłoszenia"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/index.ctp:86
+msgid "Reported"
+msgstr "Zgłoszenie"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/index.ctp:88
+msgid "profile"
+msgstr "profilu"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/index.ctp:95
+msgid "content"
+msgstr "treści"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/index.ctp:104
+msgid "to"
+msgstr "do"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_content.ctp:17
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_resolve.ctp:18
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:19
+#, fuzzy
+#| msgid "Report user"
+msgid "Report view"
+msgstr "Zgłoś użytkownika"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_content.ctp:54;61
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_resolve.ctp:61
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:52
+msgid "Contact user"
+msgstr "Kontakt"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_content.ctp:125
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_resolve.ctp:102
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:364
+msgid "Message cannot be empty."
+msgstr "Wiadomość nie może być pusta"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_resolve.ctp:49
+#, fuzzy
+#| msgid "Accept reason"
+msgid "Accept report"
+msgstr "Powód akceptacji"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_resolve.ctp:67
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:198
+msgid "User"
+msgstr "Użytkownik"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:81
+msgid "Reason for the report"
+msgstr "Powód zgłoszenia"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:96
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:155
+msgid "Block user"
+msgstr "Zablokuj użytkownika"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:99;231
+msgid "Take permissions off"
+msgstr "Odbierz sprawności"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:130
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:175
+msgid "Block user for:"
+msgstr "Zablokuj użytkownika za:"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:137
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:182
+msgid "Block reason"
+msgstr "Powód zablokowania"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:141
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:186
+msgid "Block"
+msgstr "Zablokuj"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:178
+#, fuzzy
+#| msgid "Block user for:"
+msgid "Block permissions for:"
+msgstr "Zablokuj użytkownika za:"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/view_report_type_user.ctp:227
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:572
+msgid "Take off reason"
+msgstr "Uzupełnij powód"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/Template/Reports/waiting.ctp:51
+msgid "Show history"
+msgstr "Pokaż historię"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:51
+msgid "Contact with user"
+msgstr "Kontakt z użytkownikiem"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:52
+msgid "Objection raised"
+msgstr "Zgłoszenie sprzeciwu"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:53
+msgid "User blocked"
+msgstr "Blokada konta użytkownika"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:54
+msgid "User permissions blocked"
+msgstr "Blokada sprawności użytkownika"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:55
+msgid "Content has been removed"
+msgstr "Treść została usunięta"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:56
+msgid "Comment has been removed"
+msgstr "Komentarz został usunięty"
+
+#: /home/adrian/cryptoresearch/plugins/Reports/src/View/Helper/ReportsHelper.php:57
+msgid "Reject has been removed"
+msgstr "Odrzucenie zostało usunięte"
+
+#: /home/adrian/cryptoresearch/plugins/Subscriptions/src/Controller/SubscriptionsController.php:48
+msgid ""
+"Success! We will stay in touch. You will receive a notification when ccfound "
+"officially opens! Stay tuned! "
+msgstr ""
+"Udało się! Powiadomimy Cię jak tylko ccfound oficjalnie wystartuje. Będziemy "
+"też informować o nowościach. Oczekuj na maila od nas! "
+
+#: /home/adrian/cryptoresearch/plugins/Subscriptions/src/Controller/SubscriptionsController.php:56
+msgid "Error registration."
+msgstr "Błąd Rejestracji"
+
+#: /home/adrian/cryptoresearch/plugins/Subscriptions/src/Controller/SubscriptionsController.php:69;135;201;267;333
+msgid "Unable to add subscription."
+msgstr "Nie można dodać subskrypcji."
+
+#: /home/adrian/cryptoresearch/plugins/Subscriptions/src/Controller/SubscriptionsController.php:75;141;207;273;339
+msgid "Subscription has been already add."
+msgstr "Subskrypcja została już dodana."
+
+#: /home/adrian/cryptoresearch/plugins/Subscriptions/src/Controller/SubscriptionsController.php:87;153;219;285;351
+msgid "Subscription has been added."
+msgstr "Subskrypcja została dodana."
+
+#: /home/adrian/cryptoresearch/plugins/Subscriptions/src/Controller/SubscriptionsController.php:102;115;168;181;234;247;300;313;366;379
+msgid "Unable to delete subscription."
+msgstr "Nie można usunąć subskrypcji."
+
+#: /home/adrian/cryptoresearch/plugins/Subscriptions/src/Controller/SubscriptionsController.php:109;175;241;307;373
+msgid "Subscription has been deleted."
+msgstr "Subskrypcja została usunięta."
+
+#: /home/adrian/cryptoresearch/plugins/Subscriptions/src/Controller/SubscriptionsController.php:121;187;253;319;385
+msgid "This subscription doesn't exist."
+msgstr "Subskrypcja nie istnieje."
+
+#: /home/adrian/cryptoresearch/plugins/Subscriptions/src/Template/Subscriptions/add.ctp:13
+msgid ""
+"ccfound is currently in a closed beta. Registration is open for people with "
+"invitation only. To receive an invitation, contact people you know that have "
+"access to ccfound. You may also join us by subscribing to the early bird "
+"list and be one of the first people to receive a notification when ccfound "
+"is open to the public!"
+msgstr ""
+"Portal ccfound jest aktualnie zamknięty tylko dla osób z zaproszeniem. Aby "
+"uzyskać zaproszenie, skontaktuj się z kimś kogo znasz i kto ma dostęp do "
+"ccfound. Możesz również dołączyć do nas zapisując się na listę oczekujących, "
+"a otrzymasz informacje o starcie jak tylko otworzymy zapisy!"
+
+#: /home/adrian/cryptoresearch/plugins/Subscriptions/src/Template/Subscriptions/add.ctp:31
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/login.ctp:18
+msgid "E-mail"
+msgstr "E-mail"
+
+#: /home/adrian/cryptoresearch/plugins/Subscriptions/src/Template/Subscriptions/add.ctp:32
+msgid "Please enter a valid email."
+msgstr "Podaj poprawny adres e-mail."
+
+#: /home/adrian/cryptoresearch/plugins/Subscriptions/src/Template/Subscriptions/add.ctp:40
+msgid "You must select agreement."
+msgstr "Musisz zaznaczyć zgodę."
+
+#: /home/adrian/cryptoresearch/plugins/Subscriptions/src/Template/Subscriptions/add.ctp:43
+msgid ""
+"I want to join the community and will receive ccfound newsletter. I accept"
+msgstr ""
+"Chcę dołączyć do społeczności i wyrażam zgodę na otrzymywanie newslettera. "
+"Akceptuję"
+
+#: /home/adrian/cryptoresearch/plugins/Subscriptions/src/Template/Subscriptions/add.ctp:44
+msgid "privacy policy"
+msgstr "politykę prywatności"
+
+#: /home/adrian/cryptoresearch/plugins/Votes/src/Controller/VotesController.php:49;107
+msgid "Unable to add vote."
+msgstr "Nie można dodać głosu."
+
+#: /home/adrian/cryptoresearch/plugins/Votes/src/Controller/VotesController.php:58;90;116;138;210
+msgid "Vote has been added."
+msgstr "Głos został zapisany."
+
+#: /home/adrian/cryptoresearch/plugins/Votes/src/Controller/VotesController.php:65;123
+msgid "Vote has been already add."
+msgstr "Głos został już oddany."
+
+#: /home/adrian/cryptoresearch/plugins/Votes/src/Controller/VotesController.php:216
+msgid "Error while adding vote."
+msgstr "Błąd podczas dodawania głosu."
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/admad/cakephp-social-auth/src/Middleware/SocialAuthMiddleware.php:221
+msgid "Email of this account is already in use."
+msgstr "Adres e-mail tego konta jest już używany."
+
+#: /home/adrian/cryptoresearch/vendor/admad/cakephp-social-auth/src/Middleware/SocialAuthMiddleware.php:239
+msgid "You must first register with social profile."
+msgstr "Najpierw musisz zarejestrować się poprzez profil społecznościowy."
+
+#: /home/adrian/cryptoresearch/vendor/cakephp/acl/src/AclExtras.php:482
+msgid "Tree has been recovered, or tree did not need recovery."
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/cakephp/acl/src/Shell/AclExtrasShell.php:107
+msgid "Plugin to process"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/cakephp/acl/src/Shell/AclExtrasShell.php:109
+msgid "Better manage, and easily synchronize you application's ACO tree"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/cakephp/acl/src/Shell/AclExtrasShell.php:114
+msgid ""
+"Add new ACOs for new controllers and actions. Does not remove nodes from the "
+"ACO table."
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/cakephp/acl/src/Shell/AclExtrasShell.php:119
+msgid ""
+"Perform a full sync on the ACO table.Will create new ACOs or missing "
+"controllers and actions.Will also remove orphaned entries that no longer "
+"have a matching controller/action"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/cakephp/acl/src/Shell/AclExtrasShell.php:123
+#, fuzzy
+#| msgid "Resolve as accepted"
+msgid "Recover a corrupted Tree"
+msgstr "Odzyskaj uszkodzone drzewo"
+
+#: /home/adrian/cryptoresearch/vendor/cakephp/acl/src/Shell/AclExtrasShell.php:128
+#, fuzzy
+#| msgid "reported to resolve"
+msgid "The type of tree to recover"
+msgstr "zgłosił/a do rozstrzygnięcia"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Element/form.ctp:23
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/index.ctp:23
+msgid "<%= $pluralHumanName %>"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Element/form.ctp:36
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:54;162
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Element/form.ctp:25
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/index.ctp:81
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:53;164
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Element/form.ctp:39
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:55
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Element/form.ctp:30
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:54
+msgid "List <%= $pluralHumanName %>"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Element/form.ctp:48
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/index.ctp:34
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:63
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Element/form.ctp:37
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:61
+msgid "List <%= $this->_pluralHumanName($alias) %>"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Element/form.ctp:49
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/index.ctp:35
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Element/form.ctp:38
+msgid "New <%= $this->_singularHumanName($alias) %>"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/index.ctp:26
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:56
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/index.ctp:10
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:55
+msgid "New <%= $singularHumanName %>"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:53
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:52
+msgid "Edit <%= $singularHumanName %>"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:54
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:53
+msgid "Delete <%= $singularHumanName %>"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:64
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/index.ctp:18
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:62
+msgid ""
+"New <%= Inflector::humanize(Inflector::singularize(Inflector::"
+"underscore($alias))) %>"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:83
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:89
+msgid "<%= Inflector::humanize($details["
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:88;105;121;131;149
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:92;101;117;125;149
+msgid "<%= Inflector::humanize($field) %>"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:97
+msgid ""
+"<%= Inflector::humanize(Inflector::singularize(Inflector::"
+"underscore($alias))) %>"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:122
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:118
+msgid "Yes"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:122
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:118
+msgid "No"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Core/src/Template/Bake/Template/view.ctp:144
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/view.ctp:142
+msgid "Related <%= $otherPluralHumanName %>"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:174
+msgid ""
+"You have successfully registered an account. An email has been sent with "
+"further instructions."
+msgstr ""
+"Pomyślnie zarejestrowano konto. Wiadomość e-mail została wysłana z dalszymi "
+"instrukcjami."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:177
+msgid "The User could not be saved. Please, try again."
+msgstr "Nie można zapisać użytkownika. Proszę spróbować ponownie."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:186
+msgid "Could not activate your account."
+msgstr "Nie można aktywować konta."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:192
+msgid "Could not activate your account"
+msgstr "Nie można aktywować konta"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:196
+msgid "Account activated successfully."
+msgstr "Konto zostało aktywowane pomyślnie."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:208;238;260
+msgid "Settings has been saved."
+msgstr "Ustawienia zostały zapisane."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:210;240;262
+msgid "Settings could not be saved. Please, try again."
+msgstr "Nie można zapisać ustawień. Proszę spróbować ponownie."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:283;316;412
+msgid "This email already exists in social accounts."
+msgstr "Ten e-mail już istnieje na kontach społecznościowych."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:289
+msgid "Invalid username."
+msgstr "Nieprawidłowa nazwa użytkownika."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:294
+msgid "Invalid email."
+msgstr "Nieprawidłowy adres e-mail."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:303;335;390
+msgid "An error occurred. Please try again."
+msgstr "Wystąpił błąd. Spróbuj ponownie później."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:307
+msgid "An email has been sent with instructions for resetting your password."
+msgstr "Wysłano wiadomość e-mail z instrukcjami resetowania hasła."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:322;357
+msgid "An error occurred."
+msgstr "Wystąpił błąd."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:339;394
+msgid "Your password has been reset successfully."
+msgstr "Twoje hasło zostało pomyślnie zresetowane."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:383
+msgid "The old password does not match the current password!"
+msgstr "Stare hasło nie pasuje do aktualnego hasła!"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:421
+msgid "Incorrect username or password"
+msgstr "Nieprawidłowa nazwa użytkownika lub hasło"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:434;532
+msgid "Your account was blocked "
+msgstr "Twoje konto zostało zablokowane "
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:495
+msgid "Authorization error"
+msgstr "Błąd autoryzacji"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:516
+msgid "Log out successful."
+msgstr "Wylogowano pomyślnie."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:639
+msgid "Invalid User."
+msgstr "Nieprawidłowy użytkownik."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:883
+msgid "User was unblocked successfully"
+msgstr "Użytkownik został odblokowany"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:888
+msgid "Unable to unblock user."
+msgstr "Nie można odblokować użytkownika."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:903
+msgid "Improper user name"
+msgstr "Nieodpowiednia nazwa użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:904
+msgid "Improper user avatar"
+msgstr "Nieodpowiednie zdjęcie użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:905
+msgid "Improper user bio"
+msgstr "Nieodpowiedni opis użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:924
+msgid "No block time"
+msgstr "Nie blokuj czasowo"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:953
+msgid "Rejects Comments"
+msgstr "Komentarze odrzuceń"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:987
+msgid "Publisher I"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:988
+msgid ""
+"User may publish Content: News. questions have to be Accepted and Comments "
+"do not."
+msgstr ""
+"Użytkownik może publikować Treści: Artykuły, które przed publikacją muszą "
+"przejść Akceptację oraz Komentarze, które nie wymagają Akceptacji."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:992
+msgid "Publisher II"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:993
+msgid "User may publish Content without it being Accepted."
+msgstr "Użytkownik może publikować Treści bez potrzeby Akceptacji."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:998
+msgid ""
+"User sees not accepted Content and may Accept it or Reject with a "
+"justification."
+msgstr ""
+"Użytkownik z tą sprawnością widzi jeszcze niezaakceptowane Treści i ma "
+"możliwość ich Akceptacji lub Odrzucenia z uzasadnieniem."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:1002
+msgid "Editor"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:1003
+msgid "User may add or remove categories."
+msgstr "Użytkownik może dodawać lub usuwać kategorie."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:1007
+msgid "Settle I"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:1008
+msgid ""
+"User is notified when Rejections are questioned by another user. These "
+"Rejections may be cancelled or kept in power. User may take away or "
+"temporarily block Permissions for other reported users. User is notified "
+"about reported Comments and may delete them."
+msgstr ""
+"Użytkownik widzi, gdy ktoś Zgłosi Odrzucenie do moderacji. Użytkownik może "
+"te Odrzucenia anulować bądź utrzymywać w mocy. Może odbierać na stałe lub "
+"czasowo sprawności Zgłoszonym użytkownikom. Widzi Zgłoszone przez innych "
+"Komentarze, które może usuwać lub nie."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:1012
+msgid "Settle IV"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:1013
+msgid ""
+"User is notified when Content that was Rejected and went through Settle I "
+"procedures (with Rejection being upheld again) is questioned by another User "
+"again."
+msgstr ""
+"Użytkownik widzi treści, które po przejściu przez procedury z Rozstrzyganie "
+"I zostały ponownie Zgłoszone przez użytkowników do  rozpatrzenia."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:1017
+msgid "Blocking II"
+msgstr "Blokowanie II"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:1018
+msgid ""
+"User may block other users temporarily for 1, 7, 14 or 30 days, or "
+"permanently. Blocking an user means turning off his all or chosen "
+"Permissions."
+msgstr ""
+"Użytkownik może blokować użytkowników czasowo na 1, 7, 14 lub 30 dni, albo "
+"na stałe. Blokada użytkownika polega na wyłączeniu wszystkich lub "
+"pojedynczych sprawności."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:1022
+msgid "Give Permission II"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:1023
+msgid ""
+"User may give permissions to other users in the form of a predefined role or "
+"individual permissions."
+msgstr ""
+"Użytkownik może nadawać sprawności innym użytkownikom (poza sobą) w formie "
+"Predefiniowanych ról lub pojedyncze sprawności."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:1027
+msgid "Set Banner"
+msgstr "Ustaw Baner"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:1028
+msgid "User may add banners for the main page."
+msgstr "Użytkownik może dodawać bannery na stronę główną."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:1032
+msgid "Newsletter Accept"
+msgstr "Akceptacja newslettera"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Controller/UsersController.php:1033
+msgid ""
+"User receives a procedurally generated newsletter every Saturday at 10 am. "
+"User may accept or modify the newsletter for distribution until 6 pm the "
+"following day."
+msgstr ""
+"Użytkownik dostaje listę zaproponowanych treści do newslettera, lista będzie "
+"tworzona w każdą sobotę o godzinie 10:00 na podstawie popularności z "
+"ostatniego tygodnia w poszczególnych kategoriach. Następnie newsletter "
+"będzie mógł być modyfikowany do godziny 18:00 dnia następnego."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Mailer/UserMailer.php:97
+msgid "Open for new users"
+msgstr "Tylko dla zarejestrowanych użytkowników"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Model/Table/UsersTable.php:512
+msgid "You have successfully created account with social login."
+msgstr ""
+"Konto przy pomocy mediów społecznościowych zostało utworzone pomyślnie."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Element/setting_navigation.ctp:18
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Element/setting_navigation.ctp:47
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/change.ctp:15
+msgid "Change password"
+msgstr "Zmień hasło"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/forgot_password.ctp:43
+msgid "Reset your password"
+msgstr "Zresetuj hasło użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/forgot_password.ctp:48
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/register.ctp:49
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/register.ctp:9
+msgid "Hello"
+msgstr "Witaj"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/forgot_password.ctp:49
+msgid "Please visit this link to reset your password"
+msgstr "Kliknij w link aby zresetować swoje hasło:"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/forgot_password.ctp:61
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/reset.ctp:12
+msgid "Reset password"
+msgstr "Zresetuj hasło"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/forgot_password.ctp:66
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/register.ctp:67
+msgid ""
+"If the button does not work, copy the link below and paste it into your "
+"browser"
+msgstr ""
+"Jeśli przycisk nie jest aktywny, skopiuj ten link do okna przeglądarki."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/forgot_password.ctp:88
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/forgot_password.ctp:18
+msgid "If you did not request a password reset, then please ignore this email."
+msgstr ""
+"Jeśli nie zażądałaś/eś zresetowania hasła, zignoruj tę wiadomość e-mail."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/register.ctp:44
+msgid "Activate your account"
+msgstr "Aktywuj swoje konto"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/register.ctp:50
+msgid "Click the button to activate the account"
+msgstr "Kliknij przycisk w celu aktywacji konta"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/html/register.ctp:62
+#, fuzzy
+#| msgid "Activate"
+msgid "activate"
+msgstr "Aktywuj"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/forgot_password.ctp:3
+msgid "Hello %s"
+msgstr "Witaj %s"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/forgot_password.ctp:14
+#, fuzzy
+#| msgid "Please visit this link to reset your password:"
+msgid "Please visit this link to reset your password: %s"
+msgstr "Kliknij w link aby zresetować swoje hasło:"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/register.ctp:12
+msgid "Please visit this link to activate your account:"
+msgstr "Otwórz ten link w celu aktywacji konta:"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Email/text/register.ctp:20
+msgid "If link is not clickable, copy and paste it into the address bar."
+msgstr "Jeśli link nie jest aktywny, skopiuj go do okna przeglądarki."
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/add.ctp:22
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/forgot.ctp:16
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/inbox.ctp:70
+#, fuzzy
+#| msgid "E-mail"
+msgid "Email"
+msgstr "E-mail"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/add.ctp:29
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/add.ctp:37
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/login.ctp:26
+msgid "Password"
+msgstr "Hasło"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/add.ctp:46
+msgid "Verify password"
+msgstr "Zweryfikuj hasło"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/change.ctp:24
+msgid "Current password"
+msgstr "Dotychczasowe  hasło"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/change.ctp:31
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/reset.ctp:19
+msgid "New password"
+msgstr "Nowe hasło"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/change.ctp:36
+msgid "Repeat new password"
+msgstr "Powtórz nowe hasło"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/forgot.ctp:5
+msgid "Forgot Password"
+msgstr "Przypomnij hasło"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/forgot.ctp:19
+msgid "Submit"
+msgstr "Zapisz"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/general.ctp:20
+msgid "Personal settings"
+msgstr "Ustawienia konta"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/general.ctp:27
+msgid "Show profile"
+msgstr "Pokaż profil"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/general.ctp:53
+msgid "Choose photo"
+msgstr "Wybierz zdjęcie"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/general.ctp:77
+msgid "Description"
+msgstr "Opis"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/general.ctp:84
+msgid "Referral link"
+msgstr "Link referencyjny"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/general.ctp:85
+msgid "This is Your referral link"
+msgstr "To jest Twój link referencyjny"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/inbox.ctp:19
+msgid "Inbox settings"
+msgstr "Ustawienia powiadomień"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/inbox.ctp:77
+msgid "Every day"
+msgstr "Każdego dnia"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/inbox.ctp:78
+msgid "Every week"
+msgstr "Każdego tygodnia"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/index.ctp:30
+msgid "Search for user"
+msgstr "Szukaj użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/index.ctp:96
+msgid "Search role"
+msgstr "Szukaj sprawności"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/login.ctp:37
+msgid "Forgot password?"
+msgstr "Przypomnij hasło"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/login.ctp:45
+msgid "Login with Facebook"
+msgstr "Zaloguj przez Facebook"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/login.ctp:56
+msgid "Login with Google"
+msgstr "Zaloguj przez Google"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/main.ctp:111;176;215;249
+msgid "See more"
+msgstr "Czytaj więcej"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/main.ctp:126
+msgid "Popular questions"
+msgstr "Popularne pytania"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/main.ctp:190
+msgid "Newest questions"
+msgstr "Najnowsze pytania"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/policy_en.ctp:4
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/policy_pl.ctp:4
+msgid "Privacy policy"
+msgstr "politykę prywatności"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/policy_en.ctp:16
+msgid "Terms"
+msgstr "Regulamin"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/reset.ctp:24
+msgid "Verify Password"
+msgstr "Zweryfikuj hasło"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/reset.ctp:26
+msgid "Reset"
+msgstr "Zresetuj"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/roles.ctp:17
+msgid "User Permissions"
+msgstr "Sprawności użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/subscriptions.ctp:30
+msgid "Replays and News Comments"
+msgstr "Odpowiedzi i Komentarze Aktualności"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/subscriptions.ctp:172;263;329;430;482
+msgid "Subscription date"
+msgstr "Data subskrypcji"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:58
+msgid "Permissions"
+msgstr "Sprawności"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:66
+msgid "User profile"
+msgstr "Profil użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:84
+msgid "Fallowers"
+msgstr "Obserwujących"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:92
+msgid "Subscribed user"
+msgstr "Subskrybujesz użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:104
+msgid "Subscribe user"
+msgstr "Subskrybuj użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:126
+msgid "This user is blocked until "
+msgstr "Użytkownik jest zablokowany do "
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:129
+msgid " due to "
+msgstr " z powodu "
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:144
+msgid "Unblock User"
+msgstr "Odblokuj użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:199
+msgid "Report user"
+msgstr "Zgłoś użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:222
+msgid "Choose reason"
+msgstr "Podaj powód"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:249
+msgid "User news"
+msgstr "Aktualności użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:285
+msgid "User questions"
+msgstr "Pytania użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:321
+msgid "User answers"
+msgstr "Odpowiedzi użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:360
+msgid "User comments"
+msgstr "Komentarze użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:397
+msgid "User accepts"
+msgstr "Akceptacje użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:434
+msgid "User rejects"
+msgstr "Odrzucenia użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:471
+msgid "User permissions"
+msgstr "Sprawności użytkownika"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:478
+msgid "User have permission"
+msgstr "Użytkownik posiada sprawności"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:559
+msgid "Blocked forever"
+msgstr "Zablokowane na zawsze"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:561
+msgid "Blocked to"
+msgstr "Zablokowane do"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:578
+msgid "Time to block:"
+msgstr "Czas blokady:"
+
+#: /home/adrian/cryptoresearch/vendor/croogo/croogo/Users/src/Template/Users/view.ctp:583
+msgid "Save permissions"
+msgstr "Zapisz sprawności"
+
+msgid "Open the website"
+msgstr "Otwarcie portalu"
+
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Element/form.ctp:54
+msgid "<%= Inflector::humanize($action) %> {0}"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/index.ctp:17
+msgid "List <%= Inflector::humanize($details[\"controller\"]) %>"
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/index.ctp:89
+msgid "previous"
+msgstr "poprzedni"
+
+#: /home/adrian/cryptoresearch/vendor/friendsofcake/bootstrap-ui/src/Template/Bake/Template/index.ctp:91
+msgid "next"
+msgstr "następny"
+
+#: /home/adrian/cryptoresearch/vendor/wyrihaximus/twig-view/src/Shell/CompileShell.php:151
+msgid "Searches and precompiles all twig templates it finds."
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/wyrihaximus/twig-view/src/Shell/CompileShell.php:159
+msgid "Searches and precompiles all twig templates for a specific plugin."
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/wyrihaximus/twig-view/src/Shell/CompileShell.php:167
+msgid "Precompile a specific file."
+msgstr ""
+
+#: /home/adrian/cryptoresearch/vendor/wyrihaximus/twig-view/src/Shell/CompileShell.php:171
+msgid "TwigView templates precompiler"
+msgstr ""
+
+# TITLES
+msgid "Cryptocurrencies, virtual currency - knowledge base for the investor"
+msgstr "Kryptowaluty, wirtualna waluta - baza wiedzy dla inwestora"
+
+msgid "questions from category"
+msgstr "pytania z kategorii"
+
+#~ msgid "here"
+#~ msgstr "tutaj"
+
+#~ msgid " due to"
+#~ msgstr " z powodu "
+
+#~ msgid "(min. 20 characters)"
+#~ msgstr "(min. 20 znaków)"
+
+#~ msgid "has been deleted."
+#~ msgstr "został usunięty."
+
+#~ msgid "Privace policy"
+#~ msgstr "Polityka prywatności"
+
+#~ msgid "You have to choose reason."
+#~ msgstr "Musisz wybrać powód."
+
+#~ msgid "Comment"
+#~ msgstr "Komentarz"
+
+#~ msgid "Answer"
+#~ msgstr "Odpowiedź"
+
+#~ msgid "Subscription was added successfully."
+#~ msgstr "Subskrypcja została dodana pomyślnie."
+
+#~ msgid "Test"
+#~ msgstr "Ale jaja"
+
+#, fuzzy
+#~| msgid "News"
+#~ msgid "Newss"
+#~ msgstr "Aktualności"
+
+#~ msgid "article"
+#~ msgstr "artykuł"
+
+#~ msgid "name"
+#~ msgstr "nazwa"
+
+#, fuzzy
+#~| msgid "Roles"
+#~ msgid "roles"
+#~ msgstr "Role"
+
+#~ msgid "About Us"
+#~ msgstr "O nas"
+
+#~ msgid "Articles"
+#~ msgstr "Artykuły"
+
+#~ msgid "Article was send to resolve."
+#~ msgstr "Artykuł został wysłany do rozstrzygnięcia."
+
+#, fuzzy
+#~| msgid "Roles"
+#~ msgid "Roles"
+#~ msgstr "Role"
+
+#, fuzzy
+#~| msgid "Your password has been reset successfully."
+#~ msgid "Password has been reset."
+#~ msgstr "Twoje hasło zostało pomyślnie zresetowane."
+
+#~ msgid "Password could not be reset. Please, try again."
+#~ msgstr "Nie można zresetować hasła. Proszę spróbować ponownie."
+
+#~ msgid "You are already logged in"
+#~ msgstr "Jesteś już zalogowana/ny"
+
+#~ msgid "[%s] Reset Password"
+#~ msgstr "[%s] Zresetuj hasło"
+
+#~ msgid "[%s] Please activate your account"
+#~ msgstr "[%s] Aktywuj swoje konto"
+
+#, fuzzy
+#~| msgid "send to resolve"
+#~ msgid "Username to reset"
+#~ msgstr "Zgłoś do rozstrzygnięcia"
+
+#, fuzzy
+#~ msgid "New user password"
+#~ msgstr "Nowe hasło"
+
+#~ msgid "Role id for user"
+#~ msgstr "Id sprawności dla użytkownika"
+
+#~ msgid "Password for '%s' has been changed"
+#~ msgstr "Hasło dla '%s' zostało zmienione"
+
+#~ msgid "User '%s' has been created"
+#~ msgstr "Użytkownik '%s' został utworzony"
+
+#, fuzzy
+#~| msgid "Roles"
+#~ msgid "Role"
+#~ msgstr "Role"
+
+#~ msgid "Username/Email"
+#~ msgstr "Nazwa użytkownika/Email"
+
+#~ msgid "Edit user %s"
+#~ msgstr "Edytuj użytkownika %s"
+
+#~ msgid "New user"
+#~ msgstr "Nowy uzytkownik"
+
+#~ msgid "Log In"
+#~ msgstr "Zaloguj"
+
+#~ msgid "Reset password: %s"
+#~ msgstr "Zresetuj hasło: %s"
+
+#~ msgid "Reset Password"
+#~ msgstr "Zresetuj hasło"
+
+#, fuzzy
+#~ msgid "New Password"
+#~ msgstr "Nowe hasło"
+
+#~ msgid "Edit User"
+#~ msgstr "Edytuj użytkownika"
+
+#~ msgid "Created"
+#~ msgstr "Utworzone"
+
+#~ msgid "You have to choose at least 1 category."
+#~ msgstr "Musisz wybrać przynajmniej 1 kategorię."
+
+#~ msgid "You have to choose maximum 3 categories."
+#~ msgstr "Musisz wybrać nie więcej 3 kategorie"
+
+#, fuzzy
+#~| msgid "Articles"
+#~ msgid "Article"
+#~ msgstr "Artykuły"
+
+#~ msgid "Add article"
+#~ msgstr "Dodaj artykuł"
+
+#, fuzzy
+#~| msgid "Articles"
+#~ msgid "User articles"
+#~ msgstr "Artykuły"
+
+#, fuzzy
+#~ msgid "New password "
+#~ msgstr "Nowe hasło"
+
+#~ msgid "active"
+#~ msgstr "aktywne"
+
+#, fuzzy
+#~| msgid "Invalid username."
+#~ msgid "Invalid content"
+#~ msgstr "Nieprawidłowa nazwa użytkownika."
+
+#, fuzzy
+#~| msgid "Invalid email."
+#~ msgid "Invalid action"
+#~ msgstr "Nieprawidłowy adres e-mail."

@@ -1,0 +1,74 @@
+version: '2'
+services:
+    # web with xdebug - actency images
+    webphp:
+        # actency/docker-apache-php available tags: latest, 7.3., 7.2, 7.1-1.0, 7.1, 7.0, 5.6, 5.5, 5.4, 5.3
+        image: actency/docker-apache-php:7.4
+        ports:
+            - "${WEB_PORT}:80"
+            - "9000:9000"
+        environment:
+            - SERVERNAME=example.local
+            - SERVERALIAS=example2.local *.example2.local
+            - DRUSH_VERSION=8/9
+            - DOCUMENTROOT=${DOCUMENT_ROOT}
+            - APP_NAME=${APP_NAME}
+            - DATABASE_HOST=${DATABASE_HOST}
+            - DATABASE_NAME=${DATABASE_NAME}
+            - DOCUMENT_ROOT=${DOCUMENT_ROOT}
+            - DATABASE_USER=${DATABASE_USER}
+            - DATABASE_PASSWORD=${DATABASE_PASSWORD}
+            - APP_ENV=${APP_ENV}
+            - DEBUG=${DEBUG}
+            - EMAIL_USER=${EMAIL_USER}
+            - EMAIL_PASSWORD=${EMAIL_PASSWORD}
+            - EMAIL_HOST=${EMAIL_HOST}
+        volumes:
+            - ./main/:/var/www/html/
+            - /home/docker/.ssh/:/var/www/.ssh/
+        depends_on:
+            - database
+        links:
+            - database:${DATABASE_NAME}
+
+        tty: true
+        # Set logs driver to fluentd only if you enable the logs container
+        # Add this logging section to any other container if you want the logs to be sent in es-fluentd-kibana container
+        logging:
+            driver: fluentd
+            options:
+                fluentd-address: "127.0.0.1:24224"
+
+    # logs container - actency images
+    logs:
+        image: actency/docker-es-fluentd-kibana
+        ports:
+            - "${KIBANA_PORT}:5601" # browse this port to see the logs in kibana
+            - "9200:9200"
+            - "9300:9300"
+            - "24224:24224"
+
+    # database container - actency images
+    database:
+        # actency/docker-mysql available tags: latest, 5.7, 5.6, 5.5
+        image: actency/docker-mysql:5.7
+        ports:
+            - "${DATABASE_PORT}:3306"
+        environment:
+            - MYSQL_ROOT_PASSWORD=${DATABASE_ROOT_PASSWORD}
+            - MYSQL_DATABASE=${DATABASE_NAME}
+            - MYSQL_USER=${DATABASE_USER}
+            - MYSQL_PASSWORD=${DATABASE_PASSWORD}
+
+    # phpmyadmin container - actency images
+    phpmyadmin:
+        image: actency/docker-phpmyadmin
+        ports:
+            - "${PHPADMIN_PORT}:80"
+        environment:
+            - MYSQL_ROOT_PASSWORD=${DATABASE_ROOT_PASSWORD}
+            - UPLOAD_SIZE=1G
+        links:
+            - database:${DATABASE_NAME}
+        depends_on:
+            - database

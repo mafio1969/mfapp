@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /*/login
+Disallow: /subscriptions/add
+Disallow: /*/subscriptions/add
+Disallow: /articles/*
+Disallow: /*/articles/*

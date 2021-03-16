@@ -1,0 +1,306 @@
+.status {
+    position: absolute;
+    right: 10px;
+    color: #fff;
+    top: 6px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.status.accepted {
+    color: #3bac36;
+    background: url(../img/accept3.png) no-repeat left center;
+    background-size: 12px;
+    padding-left: 16px;
+}
+
+.status.rejected {
+    color: #c92323;
+    background: url(../img/decline3.png) no-repeat left center;
+    background-size: 10px;
+    padding-left: 15px;
+}
+
+.likes-buttons .art-likes-button a.subscription{
+    line-height: 1.2;
+    font-size: 14px;
+    padding: 8px 15px;
+    height: auto;
+    background: #0072bc;
+    border-radius: 25px;
+    color: #fff;
+    font-weight: 600;
+}
+.subscription:not(.btn-secondary){
+    line-height: 1.2;
+    font-size: 14px;
+    padding: 8px 15px;
+    height: auto;
+    background: #0072bc;
+    border-radius: 25px;
+    color: #fff;
+    font-weight: 600;
+    border:2px solid #0072bc;
+}
+.block-user{
+    margin-top: 10px;
+}
+.subscription.sub{
+    background: none;
+}
+.likes-buttons .art-likes-button a.subscription.sub{
+    background: none;
+    color:#0072bc;
+}
+.cake-error{
+    font-size: 14px;
+}
+.replyActions .subscription,
+.subscription-comment,
+.comment-inner .subscription,
+.subscriptions-container .subscription{
+    padding: 0;
+    background: none;
+    color: #7c7c7c;
+    font-size: 12px;
+    border: none;
+    font-weight: 400;
+    display: inline-block;
+}
+.replyActions .subscription:before,
+.subscription-comment:before,
+.comment-inner .subscription:before,
+.subscriptions-container .subscription:before {
+    content: '';
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    background: url(../img/subscribe2.png) no-repeat center;
+    background-size: contain;
+    margin-right: 2px;
+    vertical-align: middle;
+}
+.replyActions .subscription.sub,
+.subscription-comment.sub,
+.comment-inner .subscription.sub{
+    color: #0072bc;
+    font-weight: 600;
+}
+.replyActions .subscription.sub:before,
+.subscription-comment.sub:before,
+.comment-inner .subscription.sub:before{
+    background-image: url(../img/subscribe3.png);
+}
+.reply{
+    display: inline-block;
+    margin-top:3px;
+    margin-bottom: 3px;
+}
+.subscriptions-tab:before {
+    background: url(../img/subscribe.png) no-repeat center;
+    background-size: contain;
+}
+.notes-tab:before{
+    background: url(../img/response.png) no-repeat center;
+    background-size: contain;
+}
+.articles-tab:before{
+    background: url(../img/my-content.png) no-repeat center;
+    background-size: contain;
+}
+.users-tab:before{
+    background: url(../img/user-profile.png) no-repeat center;
+    background-size: contain;
+}
+.categories-tab:before{
+    background: url(../img/category.png) no-repeat center;
+    background-size: contain;
+    min-width: 20px;
+    min-height: 18px;
+}
+/*#subscriptions #notes .report-comment,
+#subscriptions #comments .report-comment{
+    border-left: 2px solid #0072bc;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}*/
+#subscriptions #notes .user-information .badge{
+    text-transform: uppercase;
+    font-weight: 300;
+    color: #fff;
+    font-size: 10px;
+    margin-bottom: 7px;
+    padding: 0;
+    margin-right: 0;
+}
+#subscriptions .inbox-message-date{
+    position: absolute;
+    right: 15px;
+    color: #fff;
+    top: 0px;
+    font-size: 10px;
+    /*font-weight: 300;*/
+    text-transform: uppercase;
+    text-align: right;
+}
+#subscriptions #categories .inbox-message-date{
+    right: 50px;
+}
+/*#subscriptions .inbox-message-date strong{
+    font-size: 12px;
+}*/
+#subscriptions .news-list .news-list-item .actions a{
+    background: none;
+    opacity: 0.6;
+    padding: 7px 8px;
+    line-height: 1;
+}
+#subscriptions .news-list .news-list-item .actions a:hover{
+    background: rgba(255, 255, 255, 0.2);
+    opacity: 1;
+}
+#subscriptions #notes .user-information .user-img,
+#subscriptions #comments .user-information .user-img{
+    margin-top:0;
+}
+.questionClass{
+    /*margin-bottom: 10px;*/
+    padding-right: 0;
+}
+#subscriptions #notes .note-content .description{
+    padding-right: 102px;
+    /*padding-top: 30px;*/
+}
+#subscriptions #comments .report-comment{
+    margin:0;
+}
+#subscriptions #comments .news-list-item.report-comment{
+    margin:0;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+#subscriptions #categories .news-list-item.report-comment{
+    width: auto;
+    display: inline-block;
+    padding-right: 100px;
+}
+#subscriptions #comments .news-list-item.report-comment.parent{
+    margin:0;
+}
+#subscriptions #comments .inbox-message-date{
+    top:-4px;
+}
+#subscriptions #comments .note-content .description{
+    padding-right: 30px;
+    padding-top: 13px;
+}
+.report-comment .user-img{
+    margin-right: 10px;
+}
+
+#subscriptions #categories .actions{
+    top:50%;
+    right: 12px;
+}
+.categories-list .subscription{
+    font-size: 12px;
+    background: none;
+    border: 0;
+}
+.subscriptions-container .subscription {
+    background: none;
+    border: 0;
+}
+.categories-list .subscription.sub,
+.subscriptions-container .subscription.sub{
+    color: #0072bc;
+    font-weight: 600;
+}
+.categories-list .subscription:before{
+    content: '';
+    display: inline-block;
+    width: 11px;
+    height: 12px;
+    background: url(../img/subscribe2.png) no-repeat center;
+    background-size: contain;
+    margin-right: 2px;
+    vertical-align: top;
+}
+.categories-list .subscription.sub:before,
+.subscriptions-container .subscription.sub:before{
+    background-image: url(../img/subscribe3.png);
+}
+
+@media (max-width: 767px) {
+    .container .subscription-user{
+        text-align: left;
+    }
+}
+
+@media (max-width: 610px) {
+
+    #subscriptions #comments .note-content .description{
+        padding-top: 7px;
+    }
+    #subscriptions .inbox-message-date strong {
+        font-size: 10px;
+    }
+    #subscriptions #notes .note-content,
+    #subscriptions #comments .note-content {
+        padding-left: 5px;
+    }
+    #subscriptions #notes .note-content .description,
+    #subscriptions #notes .note-content .description p {
+        font-size: 14px;
+    }
+    #subscriptions .user-name {
+        line-height: 45px;
+    }
+}
+
+@media (max-width: 480px) {
+    #subscriptions #notes .news-list-item.report-comment,
+    #subscriptions #comments .news-list-item.report-comment{
+        display: block;
+    }
+    #subscriptions #notes .user-information,
+    #subscriptions #comments .user-information {
+        display: block;
+        text-align: left;
+    }
+    #subscriptions #notes .user-information .badge{
+        display: block;
+        text-align: left;
+    }
+    #subscriptions #notes .note-content .description,
+    #subscriptions #comments .note-content .description {
+        padding-top: 5px;
+    }
+    #subscriptions #notes .news-list-item.report-comment,
+    #subscriptions #comments .news-list-item.report-comment{
+        margin-bottom: 10px;
+    }
+}
+
+.news-list-item.new-content.new-message button {
+    background-color: #0072bc;
+}
+
+.inbox-page .news-list .news-list-item p {
+    color: #fff;
+}
+
+.new-message .status.rejected {
+    color: #fff;
+    background: url(../img/decline2.png) no-repeat left center;
+    background-size: 10px;
+    padding-left: 15px;
+}
+
+.new-message .status.accepted {
+    color: #fff;
+    background-image: url(../img/accept2.png);
+}
+
+.actions button:hover {
+    background-color: #003d7e;
+}
