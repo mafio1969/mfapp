@@ -2,11 +2,9 @@ build-job:
   stage: build
   script:
     -echo "docker-compose build"
+    -echo "docker-compose up"
 
-test-job1:
-  stage: run
-  script:
-    - echo "docker-compose up"
+
 
 test-job2:
   stage: test
