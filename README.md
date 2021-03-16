@@ -7,7 +7,7 @@ git clone https://gitlab.com/mariusz.franciszczak/mf.git
 2.[install docker-compose ubuntu](https://docs.docker.com/compose/install)  
 2.[install docker win 10](https://docs.docker.com/docker-for-windows/install/)
 
-## Nie wykonuj http://localhost:8050/ !!!!!!!!!!!!
+## Nie wykonuj http://localhost:8050/; http://localhost:8050/?lp=webinar !!!!!!!!!!!!
 
 ##  Commands:
     - "docker-compose build" (first command)  
@@ -25,7 +25,7 @@ Notatki:
 1. Zrób to co powyżej
 2. Skopiuj _**.env_example**_ i zapisz w tym samym katalogu pod nazwą _**.env**_
 3. Załaduj bazę z pliku _**main/sql/ccfound.sql**_
-4. uruchom w przeglądarce http://localhost:8050
+4. uruchom w przeglądarce http://localhost:8050/?lp=webinar
 5. Jeśli nie ma ładnej strony coś poszło nie tak, zacznij od nowa punkt po punkcie
 
 Uwaga: w razie konfliktów portów, nazwy bazy danych ... jest mozliwość zmian wartośći w pliku _**.env**_ w pliku _**.env_example**_ nic nie zmieniamy 
