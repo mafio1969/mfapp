@@ -1,8 +1,8 @@
 build-job:
   stage: build
   script:
-    -echo "docker-compose build"
-    -echo "docker-compose up"
+    - echo "docker-compose build"
+    - echo "docker-compose up"
 
 
 
