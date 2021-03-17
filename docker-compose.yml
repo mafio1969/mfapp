@@ -24,6 +24,7 @@ services:
             - EMAIL_PASSWORD=${EMAIL_PASSWORD}
             - EMAIL_HOST=${EMAIL_HOST}
         volumes:
+            - ./config/conf.d/://usr/local/etc/php/conf.d/
             - ./main/:/var/www/html/
             - /home/docker/.ssh/:/var/www/.ssh/
         depends_on:
