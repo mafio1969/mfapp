@@ -18,14 +18,6 @@
 // Check platform requirements
 require dirname(__DIR__) . '/config/requirements.php';
 
-try {
-
-    $pdo = new PDO('mysql:host='. getenv('DATABASE_HOST').'; dbname='.getenv('DATABASE_NAME'), getenv('DATABASE_USER'), getenv('DATABASE_PASSWORD'),
-        array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION));
-} catch (Exception $e) {
-    echo("Can't open the database." . $e->getMessage());
-    die('database');
-}
 // For built-in server
 if (php_sapi_name() === 'cli-server') {
     $_SERVER['PHP_SELF'] = '/' . basename(__FILE__);
