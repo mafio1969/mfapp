@@ -8,7 +8,7 @@ services:
             - "${WEB_PORT}:80"
             - "9000:9000"
         environment:
-            - SERVERNAME=example.local
+            - SERVERNAME=172.77.0.4
             - SERVERALIAS=example2.local *.example2.local
             - DRUSH_VERSION=8/9
             - DOCUMENTROOT=${DOCUMENT_ROOT}
@@ -24,29 +24,16 @@ services:
             - EMAIL_PASSWORD=${EMAIL_PASSWORD}
             - EMAIL_HOST=${EMAIL_HOST}
         volumes:
+            - ./config/conf.d/://usr/local/etc/php/conf.d/
             - ./main/:/var/www/html/
             - /home/docker/.ssh/:/var/www/.ssh/
+        command: echo 'cp ./config/host/host /etc/'
         depends_on:
             - database
         links:
-            - database:${DATABASE_NAME}
-
-        tty: true
-        # Set logs driver to fluentd only if you enable the logs container
-        # Add this logging section to any other container if you want the logs to be sent in es-fluentd-kibana container
-        logging:
-            driver: fluentd
-            options:
-                fluentd-address: "127.0.0.1:24224"
-
-    # logs container - actency images
-    logs:
-        image: actency/docker-es-fluentd-kibana
-        ports:
-            - "${KIBANA_PORT}:5601" # browse this port to see the logs in kibana
-            - "9200:9200"
-            - "9300:9300"
-            - "24224:24224"
+            - database:mysql
+        networks:
+            - snare
 
     # database container - actency images
     database:
@@ -59,6 +46,8 @@ services:
             - MYSQL_DATABASE=${DATABASE_NAME}
             - MYSQL_USER=${DATABASE_USER}
             - MYSQL_PASSWORD=${DATABASE_PASSWORD}
+        networks:
+            - snare
 
     # phpmyadmin container - actency images
     phpmyadmin:
@@ -69,6 +58,16 @@ services:
             - MYSQL_ROOT_PASSWORD=${DATABASE_ROOT_PASSWORD}
             - UPLOAD_SIZE=1G
         links:
-            - database:${DATABASE_NAME}
+            - database:mysql
         depends_on:
             - database
+        networks:
+            - snare
+
+networks:
+    snare:
+        ipam:
+            driver: default
+            config:
+                -   subnet: 172.77.0.0/16
+                    gateway: 172.77.0.1
